@@ -3,6 +3,10 @@ Este es un mini proyecto con la unica finalidad de crear el efecto de maquina de
 
 ![](img.gif)
 
+[DEMO](https://zaybit.github.io/Typewriter/)
+
+[]
+
 Enlaza el archivo **TypewriterJs.js**
 
 ``` html
